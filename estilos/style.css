@@ -44,5 +44,20 @@ section#login > div#imagem {
 section#login > div#form {
     display: block;
     padding: 10px;
+}
 
+div#form > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#form > p {
+    font-size: 0.8em;
+}
+
+
+form > input#entrar {
+    display: block;
+    width: 100%;
+    background-color: blue;
 }
